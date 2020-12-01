@@ -1,0 +1,20 @@
+.box {
+    box-sizing: border-box;
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    margin: 0 auto;
+    overflow: scroll;
+}
+.box p {
+    border: 1px solid red;
+}
+.button-click {
+    width: 50px;
+    height: 40px;
+    border: 1px solid red;
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+    display: block;
+}
